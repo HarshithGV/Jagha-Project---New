@@ -1,0 +1,18 @@
+.country {
+    text-align: center;
+}
+
+.table {
+    border: 1px solid black;
+    display: inline-grid;
+}
+th {
+    border: 1px solid black; 
+    padding: 1rem;   
+}
+
+td {
+    padding: 0.5rem;
+    margin:auto;
+    border: 1px solid black;
+}
